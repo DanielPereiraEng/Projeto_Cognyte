@@ -50,8 +50,9 @@ public:
             }
         }
     }
-
-    static void loadConfig() {
+    
+    //carrega as configurações do arquivo config.ini porem se os valores não forem encontrados atribui valores padrão
+    static void loadConfig() {  
         boost::property_tree::ptree config;
         boost::property_tree::ini_parser::read_ini("config.ini", config);
         
