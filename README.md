@@ -15,3 +15,7 @@ Os seguintes dados são customizaveis a partir do arquivo de iniciação
 
 O projetou levou aproximadamente 10h para ser feito
 As maiores dificuldades encontradas foi em relembrar alguns aspectos de trabalhar com linux
+
+
+Foi utilizado Visual Studio
+E a biblioteca Boost versão 1.83
