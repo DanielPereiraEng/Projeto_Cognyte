@@ -12,3 +12,6 @@ Os seguintes dados são customizaveis a partir do arquivo de iniciação
 -port para conecção
 
 -prefixo dos nomes de arquivos a serem gravados
+
+O projetou levou aproximadamente 10h para ser feito
+As maiores dificuldades encontradas foi em relembrar alguns aspectos de trabalhar com linux
